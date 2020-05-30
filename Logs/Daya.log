@@ -8,7 +8,7 @@
 [INFO ] 2020-04-15 19:08:28.029 [TestNG-tests-1] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
 [INFO ] 2020-04-15 19:08:37.141 [TestNG-tests-2] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
 [INFO ] 2020-04-15 19:08:38.960 [TestNG-tests-2] TC_LoginTest_001 - **************** Providing login details ************* 
-[INFO ] 2020-04-15 19:08:43.720 [TestNG-tests-2] TC_LoginTest_001 - **************** loginTest is Passed ************* 
+[INFO ] 2020-04-15 19:08:43.720 [TestNG-tests-2] TC_LoginTest_001 - **************** loginTest is Passed *************       
 [INFO ] 2020-04-15 19:08:43.720 [TestNG-tests-2] TC_LoginTest_001 - **************** Finished TC_LoginTest_001 ************* 
 [INFO ] 2020-04-15 19:50:51.295 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
 [INFO ] 2020-04-15 19:50:54.023 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
